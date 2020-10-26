@@ -1,0 +1,3 @@
+# OperatorExcercise
+
+Practicing C# operators
