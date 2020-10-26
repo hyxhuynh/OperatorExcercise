@@ -4,8 +4,15 @@ namespace OperatorExcercise
 {
     class Program
     {
-        static void Main(string[] args)
+        // Method to calculate Area of a Circle
+        public static double AreaOfCircle(double r)
         {
+            double pi = Math.PI;
+            return pi * r * r;
+        }
+        static void Main(string[] args)
+        {   
+            // Arithmetic Operators
             int x = 8;
             int y = 7;
 
@@ -23,6 +30,14 @@ namespace OperatorExcercise
             int quotient = a / b;
             int remainder = a % b;
             Console.WriteLine($"{a}/{b} is {quotient} remainder {remainder}.");
+
+            // Calculate Area of Circle using user input
+            Console.WriteLine("What is the radius of the circle?");
+            double radius = double.Parse(Console.ReadLine());
+            double areaResult = AreaOfCircle(radius);
+            Console.WriteLine($"The area of a circle with radius {radius} is {areaResult}.");
+
+
         }
     }
 }
