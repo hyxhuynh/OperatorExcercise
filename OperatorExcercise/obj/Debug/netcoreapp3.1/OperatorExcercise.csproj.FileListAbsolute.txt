@@ -1,0 +1,13 @@
+C:\HyHuynh\Github\TrueCodersRepos\repos\OperatorExcercise\OperatorExcercise\obj\Debug\netcoreapp3.1\OperatorExcercise.csprojAssemblyReference.cache
+C:\HyHuynh\Github\TrueCodersRepos\repos\OperatorExcercise\OperatorExcercise\obj\Debug\netcoreapp3.1\OperatorExcercise.AssemblyInfoInputs.cache
+C:\HyHuynh\Github\TrueCodersRepos\repos\OperatorExcercise\OperatorExcercise\obj\Debug\netcoreapp3.1\OperatorExcercise.AssemblyInfo.cs
+C:\HyHuynh\Github\TrueCodersRepos\repos\OperatorExcercise\OperatorExcercise\obj\Debug\netcoreapp3.1\OperatorExcercise.csproj.CoreCompileInputs.cache
+C:\HyHuynh\Github\TrueCodersRepos\repos\OperatorExcercise\OperatorExcercise\bin\Debug\netcoreapp3.1\OperatorExcercise.exe
+C:\HyHuynh\Github\TrueCodersRepos\repos\OperatorExcercise\OperatorExcercise\bin\Debug\netcoreapp3.1\OperatorExcercise.deps.json
+C:\HyHuynh\Github\TrueCodersRepos\repos\OperatorExcercise\OperatorExcercise\bin\Debug\netcoreapp3.1\OperatorExcercise.runtimeconfig.json
+C:\HyHuynh\Github\TrueCodersRepos\repos\OperatorExcercise\OperatorExcercise\bin\Debug\netcoreapp3.1\OperatorExcercise.runtimeconfig.dev.json
+C:\HyHuynh\Github\TrueCodersRepos\repos\OperatorExcercise\OperatorExcercise\bin\Debug\netcoreapp3.1\OperatorExcercise.dll
+C:\HyHuynh\Github\TrueCodersRepos\repos\OperatorExcercise\OperatorExcercise\bin\Debug\netcoreapp3.1\OperatorExcercise.pdb
+C:\HyHuynh\Github\TrueCodersRepos\repos\OperatorExcercise\OperatorExcercise\obj\Debug\netcoreapp3.1\OperatorExcercise.dll
+C:\HyHuynh\Github\TrueCodersRepos\repos\OperatorExcercise\OperatorExcercise\obj\Debug\netcoreapp3.1\OperatorExcercise.pdb
+C:\HyHuynh\Github\TrueCodersRepos\repos\OperatorExcercise\OperatorExcercise\obj\Debug\netcoreapp3.1\OperatorExcercise.genruntimeconfig.cache
